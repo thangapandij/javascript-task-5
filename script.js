@@ -181,7 +181,6 @@ function numbers(num1, num2, ...num3) {
 
 numbers(10, 20, 30, 40, 50, 60);
 
-
 // 16.
 function rest(a1,b1,...c1) {
     console.log(a1,b1,...c1)
