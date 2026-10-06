@@ -1,4 +1,4 @@
-// 1. Currying & Uncurrying — 5 Questions
+// 1. Currying & Uncurrying
 
 // 1.
 function a(a) {
